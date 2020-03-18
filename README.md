@@ -1,5 +1,6 @@
 # kotlin_Basics
-ejemplos de conceptos basicos de kotlin
 
+here is the basics in this language
+more info [here](https://kotlinlang.org)
 by: camilo velandia
 
