@@ -2,5 +2,8 @@
 
 here is the basics in this language
 more info [here](https://kotlinlang.org)
-by: camilo velandia
+
+##### If you like,Clone, enjoy and give me a star!
+
+
 
